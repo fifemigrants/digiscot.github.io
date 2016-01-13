@@ -26,6 +26,9 @@ You can do IT - IT training & mentoring support project aims at empowering and u
 * Establish and Map Relevant skills motivation - knowing the reasons why using the internet is a good thing 
 * Build awareness and confidence trust - a fear of online fraud, or not knowing where to start to go online
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yIhLoiGoHvk" frameborder="0" allowfullscreen></iframe>
+
+
 Job Club sessions 
 Our training programme will be structured to deliver 8 training sessions to each participant over 2 months. On average, we accomodate 4 clients per session. We also take into account that some clients will need more flexible approach and more sessions will be available for clients needing extra support. 
 1. We will run 2 hour long sessions a week initially then add 2 more as the numbers increase. The sessions timings will change to reflect clients’ needs. 
@@ -57,6 +60,8 @@ Our training programme will be structured to deliver 8 training sessions to each
 
 
 ### Evaluation
+
+
 
 
 ### Lessons learned
